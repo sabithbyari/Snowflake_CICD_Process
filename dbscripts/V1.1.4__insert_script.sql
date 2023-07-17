@@ -1,0 +1,3 @@
+USE SCHEMA DEMO;
+
+insert into HELLO_WORLD VALUES ('AMAR','KATTA');
