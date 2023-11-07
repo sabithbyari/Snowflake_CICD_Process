@@ -1,5 +1,0 @@
-USE SCHEMA DEMO;
-
-truncate table HELLO_WORLD;
-insert into HELLO_WORLD VALUES ('SABITH','BYARI');
-insert into HELLO_WORLD VALUES ('BIJO','JAMES');
